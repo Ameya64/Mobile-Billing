@@ -89,5 +89,4 @@
         app:layout_anchorGravity="end|top"
         tools:targetApi="lollipop" />
 
-
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
